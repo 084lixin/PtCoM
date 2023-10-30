@@ -6,7 +6,9 @@ intermetallic nanoparticle fuel cell catalysts".
 Program versions used:
 
 ase 3.22.0
+
 numpy 1.13.1
+
 scikit-learn 0.24.2
 
 Information on how to read from ase databases:
