@@ -13,6 +13,8 @@ numpy 1.13.1
 
 scikit-learn 0.24.2
 
+matplotlib 3.5.3
+
 ****
 
 Information on how to read from ase databases:
