@@ -4,6 +4,7 @@ These code have been made available to facilitate the reproduction of the comput
 intermetallic nanoparticle fuel cell catalysts"**.
 
 ——————
+
 Packages versions used:
 
 ase 3.22.0
@@ -13,5 +14,6 @@ numpy 1.13.1
 scikit-learn 0.24.2
 
 ——————
+
 Information on how to read from ase databases:
 https://wiki.fysik.dtu.dk/ase/ase/db/db.html#
