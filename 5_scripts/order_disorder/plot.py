@@ -7,8 +7,8 @@ plt.rc('font',family='Arial')
 plt.rcParams['xtick.direction']='in'
 plt.rcParams['ytick.direction']='in'
 
-energy_order = np.loadtxt("energy_order.csv", delimiter=",", encoding='utf-8-sig')[0:800]
-energy_random = np.loadtxt("energy_random.csv", delimiter=",", encoding='utf-8-sig')[0:800]
+energy_order = np.loadtxt("energy_order.csv", delimiter=",", encoding='utf-8-sig')[0:300]
+energy_random = np.loadtxt("energy_random.csv", delimiter=",", encoding='utf-8-sig')[0:300]
 
 energy_order = pd.Series(energy_order)
 energy_random = pd.Series(energy_random)
